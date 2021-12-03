@@ -8,7 +8,7 @@ namespace AOC2021
         {
             var Hor = 0;
             var Dep = 0;
-            var input = FileReader.ReadFile(@"D:\Code Repos\AOC2021\day2Input.txt");
+            var input = FileReader.ReadFile(@"D:\Code Repos\AOC2021\Day2\day2Input.txt");
             var commands = new List<Command>();
             foreach (var line in input)
             {
