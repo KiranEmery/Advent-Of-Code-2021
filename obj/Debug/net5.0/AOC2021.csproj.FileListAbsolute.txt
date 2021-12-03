@@ -1,0 +1,16 @@
+D:\Code Repos\AOC2021\bin\Debug\net5.0\AOC2021.exe
+D:\Code Repos\AOC2021\bin\Debug\net5.0\AOC2021.deps.json
+D:\Code Repos\AOC2021\bin\Debug\net5.0\AOC2021.runtimeconfig.json
+D:\Code Repos\AOC2021\bin\Debug\net5.0\AOC2021.runtimeconfig.dev.json
+D:\Code Repos\AOC2021\bin\Debug\net5.0\AOC2021.dll
+D:\Code Repos\AOC2021\bin\Debug\net5.0\ref\AOC2021.dll
+D:\Code Repos\AOC2021\bin\Debug\net5.0\AOC2021.pdb
+D:\Code Repos\AOC2021\obj\Debug\net5.0\AOC2021.csprojAssemblyReference.cache
+D:\Code Repos\AOC2021\obj\Debug\net5.0\AOC2021.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Repos\AOC2021\obj\Debug\net5.0\AOC2021.AssemblyInfoInputs.cache
+D:\Code Repos\AOC2021\obj\Debug\net5.0\AOC2021.AssemblyInfo.cs
+D:\Code Repos\AOC2021\obj\Debug\net5.0\AOC2021.csproj.CoreCompileInputs.cache
+D:\Code Repos\AOC2021\obj\Debug\net5.0\AOC2021.dll
+D:\Code Repos\AOC2021\obj\Debug\net5.0\ref\AOC2021.dll
+D:\Code Repos\AOC2021\obj\Debug\net5.0\AOC2021.pdb
+D:\Code Repos\AOC2021\obj\Debug\net5.0\AOC2021.genruntimeconfig.cache
